@@ -3,7 +3,7 @@ MSc Data Science student at the University of Salford, Manchester. I build end-t
 
 ---
 
-## What I Work With
+## Tech Stack
 
 **Languages and Querying**
 - Python (Pandas, Scikit-learn, PySpark)
@@ -16,7 +16,7 @@ MSc Data Science student at the University of Salford, Manchester. I build end-t
 - Claude API (agentic AI, NL2SQL)
 
 **Visualisation and Dashboards**
-- Power BI (DAX, data modelling, NHS and consulting-style dashboards)
+- Power BI (DAX, data modelling)
 - Matplotlib, Seaborn
 
 **Data Engineering**
@@ -50,9 +50,11 @@ MSc Data Science student at the University of Salford, Manchester. I build end-t
 ---
 
 ## Currently
+
 - Completing my MSc Data Science at the University of Salford
-- Building a portfolio targeting NHS analytics, health data science and Big 4 consulting roles
-- Open to graduate scheme opportunities from September 2027
+- Building end-to-end analytics and AI projects focused on healthcare, predictive modelling and decision support
+- Interested in opportunities across healthcare analytics, data science and data consulting
+- Open to graduate opportunities from May 2027
 
 ---
 

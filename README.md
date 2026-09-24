@@ -7,7 +7,7 @@ MSc Data Science student at the University of Salford, Manchester. I build end-t
 
 **Languages and Querying**
 - Python (Pandas, Scikit-learn, PySpark)
-- SQL (T-SQL, Spark SQL, SQLite)
+- SQL (T-SQL, Spark SQL)
 
 **Machine Learning and AI**
 - Scikit-learn (classification, predictive modelling, SMOTE)
@@ -20,7 +20,7 @@ MSc Data Science student at the University of Salford, Manchester. I build end-t
 - Matplotlib, Seaborn
 
 **Data Engineering**
-- SQLite, Microsoft SQL Server
+- Microsoft SQL Server
 - Database design and normalisation (3NF, star schema)
 - ETL pipeline development
 

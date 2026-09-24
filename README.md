@@ -8,7 +8,13 @@ MSc Data Science student at the University of Salford, Manchester. I build end-t
 
 **Languages and Querying**
 - Python (Pandas, Scikit-learn, PySpark)
+- R
 - SQL (T-SQL, Spark SQL)
+
+**Data Analysis and Development**
+- Jupyter Notebook
+- RStudio
+- Data cleaning, exploratory data analysis and statistical analysis
 
 **Machine Learning and AI**
 - Scikit-learn (classification, predictive modelling, SMOTE)
@@ -19,6 +25,7 @@ MSc Data Science student at the University of Salford, Manchester. I build end-t
 **Visualisation and Dashboards**
 - Power BI (DAX, data modelling)
 - Matplotlib, Seaborn
+- R
 
 **Data Engineering**
 - Microsoft SQL Server

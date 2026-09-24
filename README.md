@@ -1,5 +1,6 @@
 # Hi, I'm Kehinde 👋
-MSc Data Science student at the University of Salford, Manchester. I build end-to-end data science projects using real-world datasets, combining analytical rigour with clear storytelling across Python, SQL, Power BI and AI.
+MSc Data Science student at the University of Salford, Manchester. I build end-to-end data science projects using real-world datasets, combining analytical rigour with clear storytelling across Python, R, SQL, Power BI and machine learning.
+
 
 ---
 
